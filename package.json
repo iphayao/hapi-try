@@ -1,0 +1,22 @@
+{
+  "name": "hapi-try",
+  "version": "1.0.0",
+  "description": "Try to use Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iphayao/hapi-try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iphayao/hapi-try/issues"
+  },
+  "homepage": "https://github.com/iphayao/hapi-try#readme",
+  "dependencies": {
+    "hapi": "^16.5.0"
+  }
+}
